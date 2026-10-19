@@ -1,0 +1,12 @@
+date,type,description,counterparty,country,net,vat,withholding,withholding_kind,deductible_pct,category,invoice_no,paid_date,notes
+2026-01-15,income,Translation project A,Nordic Client ApS,DK,2000.00,0.00,0.00,none,100,services,2026-001,,
+2026-02-12,income,Translation project B,Nordic Client ApS,DK,2500.00,0.00,0.00,none,100,services,2026-002,,
+2026-03-10,income,Translation project C,Baltic Client OU,EE,1500.00,0.00,0.00,none,100,services,2026-003,,
+2026-01-05,expense,Software subscription,Software Co,IE,100.00,21.00,0.00,none,100,software,S-01,,
+2026-01-20,expense,Coworking desk,Coworking SL,ES,200.00,42.00,0.00,none,100,office,C-01,,
+2026-03-31,expense,Social security Q1 (3 x 300),TGSS,ES,900.00,0.00,0.00,none,100,social_security,,,
+2026-03-15,expense,Proofreader (freelance),Jordi Proof,ES,1000.00,0.00,150.00,professional,100,subcontractors,P-07,2026-03-20,15% IRPF withheld
+2026-04-20,income,Translation project D,Nordic Client ApS,DK,4000.00,0.00,0.00,none,100,services,2026-004,,
+2026-06-30,expense,Social security Q2 (3 x 300),TGSS,ES,900.00,0.00,0.00,none,100,social_security,,,
+2026-05-05,expense,Software subscription,Software Co,IE,100.00,21.00,0.00,none,100,software,S-02,,
+2026-08-01,expense,Large one-off expense (fictional),Supplier SL,ES,6000.00,0.00,0.00,none,100,other,X-01,,

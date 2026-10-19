@@ -1,0 +1,14 @@
+{
+  "_note": "FICTIONAL example profile. Your real one is created by the autonomo-setup skill.",
+  "name": "Alex Example",
+  "territory": "common",
+  "regime": "simplified",
+  "difficult_expenses": true,
+  "activity": "Freelance translation services (fictional)",
+  "vat_status": "exempt_or_not_subject",
+  "vat_is_cost": true,
+  "forms": ["130", "111", "190", "renta"],
+  "prior_year_net_income": 15000,
+  "reta_monthly_fee": 300,
+  "renta_buffer_pct": 5
+}

@@ -1,0 +1,15 @@
+{
+  "name": "spanish-autonomo-accountant",
+  "owner": {
+    "name": "Irian Bouvier",
+    "url": "https://github.com/iri2bouv"
+  },
+  "description": "An AI accountant for self-employed people (autónomos) in Spain: deadlines, bookkeeping, quarterly and annual tax returns.",
+  "plugins": [
+    {
+      "name": "spanish-autonomo-accountant",
+      "source": "./",
+      "description": "Your own accountant for Spanish autónomo taxes: deadlines, bookkeeping, quarterly and annual returns."
+    }
+  ]
+}

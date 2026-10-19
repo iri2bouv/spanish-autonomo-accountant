@@ -1,0 +1,7 @@
+# Personal tax data never goes to git (the fictional example in examples/books/ is the only exception)
+/books/
+/filings/
+/CLAUDE.md
+*.ics
+__pycache__/
+.DS_Store

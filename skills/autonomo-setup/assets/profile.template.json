@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "nif": "",
+  "territory": "common",
+  "activity": "",
+  "iae": "",
+  "start_date": "",
+  "regime": "simplified",
+  "difficult_expenses": true,
+  "vat_status": "",
+  "vat_is_cost": true,
+  "clients": "",
+  "forms": ["130", "renta"],
+  "prior_year_net_income": null,
+  "reta_monthly_fee": 0,
+  "reta_bracket": "",
+  "home_office": {"work_m2": 0, "total_m2": 0},
+  "renta_buffer_pct": 5,
+  "setup_date": ""
+}

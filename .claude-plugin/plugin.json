@@ -1,0 +1,11 @@
+{
+  "name": "spanish-autonomo-accountant",
+  "displayName": "Spanish Autónomo Accountant",
+  "version": "1.0.0",
+  "description": "Do your own bookkeeping and Spanish taxes as an autónomo: deadlines and reminders, ledger, modelo 130/111/115, annual 190 and Renta, and how much to set aside. You file; it prepares.",
+  "author": { "name": "Irian Bouvier", "url": "https://github.com/iri2bouv" },
+  "repository": "https://github.com/iri2bouv/spanish-autonomo-accountant",
+  "license": "MIT",
+  "keywords": ["spain", "autonomo", "taxes", "accounting", "modelo-130", "irpf", "aeat"],
+  "agents": ["./agents/spanish-accountant.md"]
+}
